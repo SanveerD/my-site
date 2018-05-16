@@ -479,7 +479,8 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 100%;
+  width: 40%;
 }
 
 .img-thumbnail {
@@ -554,7 +555,7 @@ pre code {
 }
 
 .container {
-  width: 100%;
+  width: 70%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -581,7 +582,7 @@ pre code {
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 1140px;
+    max-width: 1000px;
   }
 }
 

@@ -17,3 +17,10 @@ body {
 .pagination {
   margin-bottom: 15px;
 }
+
+.horizontalgap {
+ float: left;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+}
