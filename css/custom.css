@@ -25,3 +25,16 @@ body {
   width: 100%;
 }
 
+.label {
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 10pt;
+    margin: 0px;
+    display: inline-block;
+}
+
+.python {background-color: #4CAF50;} 
+.mat {background-color: #2F5AC6;} 
+.tableau {background-color: #850000;}
+.vba {background-color: #ff9800;} 
